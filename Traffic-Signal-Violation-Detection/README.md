@@ -106,6 +106,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 - [OpenCV](https://opencv.org/)
 - [NumPy](https://numpy.org/)
 
-## Contact
-
-For any inquiries or further information, please contact Mohammed Hamza Moawad Khalifa  [LinkedIn](https://www.linkedin.com/in/mohammed-hamza-moawad-khalifa/).
