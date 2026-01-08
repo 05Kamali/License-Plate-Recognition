@@ -47,13 +47,14 @@ This project is an AI-based Traffic Signal Violation Detection System that uses 
 
 3. **Download YOLOv8 Model**
 
-   Download the pre-trained YOLOv8 model (`yolov8m.pt`) and place it in the project directory.
+Download the pre-trained YOLOv8 model [`yolov8m.pt`]([PASTE_MODEL_LINK_HERE](https://drive.google.com/file/d/1l_n8OrFfarn2qHrWAD_3NmXb6L53GBmB/view?usp=drive_link)) and place it in the `model/` folder.
 
+---
 ## Usage
 
 1. **Prepare the Video**
 
-   Ensure that your video file (`tr.mp4`) is placed in the project directory.
+Download the demo video [`tr.mp4`]([PASTE_VIDEO_LINK_HERE](https://drive.google.com/file/d/1jLGp96o1oMsi7MxVHpQLEMnpvxY-LXsg/view?usp=drive_link)) and place it in the `demo/` folder.
 
 2. **Run the Script**
 
