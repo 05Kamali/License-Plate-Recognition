@@ -40,7 +40,7 @@ It is designed for **smart traffic monitoring, automated law enforcement, and in
 ## 🏗️ System Architecture
 
 ![System Architecture](demo/system_architecture.png)  
-*(Replace with your architecture diagram in `demo/system_architecture.png`)*
+
 
 **Architecture Explanation:**
 
